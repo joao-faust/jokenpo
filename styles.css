@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+}
+
+img {
+    width: 120px;
+    max-width: 100%;
+    margin: 0 20px;
+}
+
+#score {
+    font-size: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #ccc;
+    padding: 20px;
+}
+
+main {
+    text-align: center;
+    padding: 10px;
+    background-color: #eee
+}
+
+main img {
+    cursor: pointer;
+}
+
+#result {
+    background-color: #ccc;
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    margin-top: 15px;
+}
